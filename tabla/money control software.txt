@@ -1,0 +1,7 @@
+Software para controlar finanzas personales.
+
+1)¿Que funcion deberia cumplir? ==> Controlar gastos y ingresos diarios
+2)¿Como deberia recopilar los datos? ==> Deberia pedirlos al final de cada dia
+3)¿Como deberia presentar los datos? ==> En un grafico.
+4)¿Como deberia ser la interfaz? ==> Con Tkinter o en terminal? ==> terminal a tkinter
+5)¿Con base de datos SQL? ==> Si
